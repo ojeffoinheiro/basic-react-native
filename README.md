@@ -16,10 +16,9 @@
 
 # Technologies :computer:
 This project was developed with the following technologies:
-- [Typescript](typescriptlang.org/)
 - [React Native](https://reactnative.dev)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [React Router](https://reactrouter.com/)
+- [item](https://react-icons.github.io/react-icons/)
+- [item](https://reactrouter.com/)
 ---
 
 # How to use :fire:

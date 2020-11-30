@@ -1,10 +1,3 @@
-<!--
-*** Obrigado por estar vendo o nosso README. Se você tiver alguma sugestão
-*** que possa melhorá-lo ainda mais dê um fork no repositório e crie uma Pull
-*** Request ou abra uma Issue com a tag "sugestão".
-*** Obrigado novamente! Agora vamos rodar esse projeto incrível :D
--->
-
 <!-- PROJECT SHIELDS -->
 
 [![npm](https://img.shields.io/npm/v/react-native-template-rocketseat-basic.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
@@ -19,15 +12,12 @@
   <a href="https://rocketseat.com.br">
     <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
   </a>
-
-  <h3 align="center">Template Rocketseat Basic</h3>
+  <h3 align="center">Template Basic</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
 
 ## Tabela de Conteúdo
-
-- [Tabela de Conteúdo](#tabela-de-conte%C3%BAdo)
 - [Sobre o Projeto](#sobre-o-projeto)
   - [Feito Com](#feito-com)
 - [Começando](#come%C3%A7ando)

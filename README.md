@@ -11,10 +11,10 @@
 </p>
 
 # Overview :book:
-Este projeto visa a criação de um template que possa ser utilizado no momento de criação de projetos utilizando React Native, visto que o processo de instalação e configuração das libs no início de um projeto podem gerar certa complexidade e muitas vezes até erros que atrasam o processo, atrapalhando assim o fluxo de desenvolvimento.
+This project aims to create a template that can be used when creating projects using React Native, since the process of installing and configuring libs at the beginning of a project can generate some complexity and often even errors that delay the process , thus hindering the development flow.
 
 # Technology :computer:
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 - [React Native](https://reactnative.dev)
 - [item](https://react-icons.github.io/react-icons/)
 - [item](https://reactrouter.com/)

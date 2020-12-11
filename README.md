@@ -1,27 +1,27 @@
 ## [Leia esta página em português](https://github.com/ojeffoinheiro/task/blob/master/README-PT.md)
 <h1 align="center">
-  Estrutura básica de um projeto react native
+  Basic structure of a react native project
 </h1>
   
 <p align="center">
-  <a href="#sobre-o-projeto-book">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias-computer">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#como-usar-fire">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-contribuir-gear">Como contribuir</a>
+  <a href="#overview-book">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technology-computer">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#how-to-use-fire">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute-gear">How to contribute</a>
 </p>
 
-# Sobre o projeto :book:
+# Overview :book:
 Este projeto visa a criação de um template que possa ser utilizado no momento de criação de projetos utilizando React Native, visto que o processo de instalação e configuração das libs no início de um projeto podem gerar certa complexidade e muitas vezes até erros que atrasam o processo, atrapalhando assim o fluxo de desenvolvimento.
 
-# Tecnologias :computer:
+# Technology :computer:
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://reactnative.dev)
 - [item](https://react-icons.github.io/react-icons/)
 - [item](https://reactrouter.com/)
 ---
 
-# Como usar :fire:
-## Precondition :white_flag:
+# How to use :fire:
+## Precondition 📌
 You should have:
 - NodeJS
 - Package manager (NPM ou Yarn)
@@ -30,20 +30,20 @@ You should have:
 ```bash
 $ git clone https://github.com/ojeffoinheiro/basic-react-native.git
 ```
-## Entre na pasta :file_folder:
+## Go into the repository :file_folder:
 ```bash
 $ cd basic-react-native
 ```
-## Instale as dependências :wrench:
+## Install the dependencies
 ```bash
 yarn install
 ```
 ## Run :iphone:
-Rodando a aplicação no iOS
+Run the application (iOS)
 ```bash
 $ react-native run-ios --simulator="iPhone XS Max"
 ```
-Rodando a aplicação no Android
+Run the application (Android)
 ```bash
 $ react-native run-android
 ```

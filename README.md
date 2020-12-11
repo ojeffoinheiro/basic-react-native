@@ -49,7 +49,7 @@ $ react-native run-android
 ```
 ---
 
-# Como contribuir :gear:
+# How to contribute :gear:
 - Fork this repository;
 - Create a branch with your feature: `git checkout -b my-feature`;
 - Commit your changes: `git commit -m 'feat: My new feature'`;

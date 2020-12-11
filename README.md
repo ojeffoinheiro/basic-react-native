@@ -1,3 +1,4 @@
+## [Leia esta página em português](https://github.com/ojeffoinheiro/task/blob/master/README-PT.md)
 <h1 align="center">
   Estrutura básica de um projeto react native
 </h1>

@@ -30,6 +30,7 @@ This project aims to create a template that can be used when creating projects u
 Este projeto foi desenvolvido com as seguintes tecnologias:
 <details>
   <summary>Frontend Web</summary>
+  
 - [ReactJS](https://pt-br.reactjs.org)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Leaflet](https://leafletjs.com)
@@ -40,10 +41,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Typescript](typescriptlang.org/)
 - [React Router](https://reactrouter.com/)
+
 </details>
 
 <details>
   <summary>Frontend Mobile</summary>
+  
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.io)
 - [React Navigation](https://reactnavigation.org)
@@ -51,10 +54,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Styled Components](styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 - [React Native Maps](https://github.com/react-native-maps/react-native-maps)
+
 </details>
 
 <details>
   <summary>Backend</summary>
+  
 - [NodeJS](https://nodejs.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Typescript](https://typescriptlang.org/)
@@ -63,6 +68,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Docker](https://www.docker.com)
 - [Multer](https://www.npmjs.com/package/multer)
 - [Yup](https://www.npmjs.com/package/yup)
+
 </details>
 
 ---

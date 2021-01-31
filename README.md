@@ -15,8 +15,6 @@
   <a href="#connect-with-me">Connect with me</a>
 </p>
 
----
-
 # :book: Overview
 This project aims to create a template that can be used when creating projects using React Native, since the process of installing and configuring libs at the beginning of a project can generate some complexity and often even errors that delay the process , thus hindering the development flow.
 

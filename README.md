@@ -4,8 +4,11 @@
 </h1>
   
 <p align="center">
-  <a href="#book-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#book-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#eyes-Preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+  <a href="#rocket-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#pencil-to-do">To Do</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#fire-running-the-project">Running the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mailbox-reach-me">Reach me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,11 +18,63 @@
 # :book: Overview
 This project aims to create a template that can be used when creating projects using React Native, since the process of installing and configuring libs at the beginning of a project can generate some complexity and often even errors that delay the process , thus hindering the development flow.
 
-# :computer: Technology
-This project was developed with the following technologies:
+# :eyes: Preview 
+<p align="center">:computer: Desktop</p>
+<p align="center">:iphone: Mobile</p>
+
+---
+
+# :rocket: Technology
+Este projeto foi desenvolvido com as seguintes tecnologias:
+<details>
+  <summary>Frontend Web</summary>
+- [ReactJS](https://pt-br.reactjs.org)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Leaflet](https://leafletjs.com)
+- [React Leaflet](https://react-leaflet.js.org)
+- [Toastify](https://www.npmjs.com/package/react-toastify)
+- [Styled Components](styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Typescript](typescriptlang.org/)
+- [React Router](https://reactrouter.com/)
+</details>
+
+<details>
+  <summary>Frontend Mobile</summary>
 - [React Native](https://reactnative.dev)
-- [item](https://react-icons.github.io/react-icons/)
-- [item](https://reactrouter.com/)
+- [Expo](https://expo.io)
+- [React Navigation](https://reactnavigation.org)
+- [Typescript](typescriptlang.org/)
+- [Styled Components](styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Native Maps](https://github.com/react-native-maps/react-native-maps)
+</details>
+
+<details>
+  <summary>Backend</summary>
+- [NodeJS](https://nodejs.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [Typescript](https://typescriptlang.org/)
+- [TypeORM](https://typeorm.io#/)
+- [Postgres](https://www.postgresql.org)
+- [Docker](https://www.docker.com)
+- [Multer](https://www.npmjs.com/package/multer)
+- [Yup](https://www.npmjs.com/package/yup)
+</details>
+
+---
+
+# :art: Layout
+<p align="center">:computer: Desktop</p>
+<p align="center">:iphone: Mobile</p>
+
+---
+
+# :pencil: To Do
+- [x] Tarefa 01
+- [ ] Tarefa 02
+
 ---
 
 # :fire: Running the project

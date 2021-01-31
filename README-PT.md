@@ -5,7 +5,7 @@
 </h1>
   
 <p align="center">
-  <a href="#booksobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#book-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#fire-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,10 +18,53 @@ Este projeto visa a criação de um template que possa ser utilizado no momento 
 
 # :computer: Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
+<details>
+  <summary>Frontend Web</summary>
+- [ReactJS](https://pt-br.reactjs.org)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Leaflet](https://leafletjs.com)
+- [React Leaflet](https://react-leaflet.js.org)
+- [Toastify](https://www.npmjs.com/package/react-toastify)
+- [Styled Components](styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Typescript](typescriptlang.org/)
+- [React Router](https://reactrouter.com/)
+</details>
+
+<details>
+  <summary>Frontend Mobile</summary>
 - [React Native](https://reactnative.dev)
-- [item](https://react-icons.github.io/react-icons/)
-- [item](https://reactrouter.com/)
+- [Expo](https://expo.io)
+- [React Navigation](https://reactnavigation.org)
+- [Typescript](typescriptlang.org/)
+- [Styled Components](styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Native Maps](https://github.com/react-native-maps/react-native-maps)
+</details>
+
+<details>
+  <summary>Backend</summary>
+- [NodeJS](https://nodejs.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [Typescript](https://typescriptlang.org/)
+- [TypeORM](https://typeorm.io#/)
+- [Postgres](https://www.postgresql.org)
+- [Docker](https://www.docker.com)
+- [Multer](https://www.npmjs.com/package/multer)
+- [Yup](https://www.npmjs.com/package/yup)
+</details>
+
 ---
+
+# :art: Layout
+Desktop
+Mobile
+---
+
+# :pencil: Tarefas
+- [x] Tarefa 01
+- [ ] Tarefa 02
 
 # :fire: Como usar
 ## Precondition <img src="https://4.bp.blogspot.com/-7eg7Qz3UeWM/UTioF3nxNGI/AAAAAAAAPZk/7H509R6acZU/s1600/gif+aviso.gif" width="40px">

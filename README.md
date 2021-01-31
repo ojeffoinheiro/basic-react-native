@@ -15,8 +15,12 @@
   <a href="#connect-with-me">Connect with me</a>
 </p>
 
+---
+
 # :book: Overview
 This project aims to create a template that can be used when creating projects using React Native, since the process of installing and configuring libs at the beginning of a project can generate some complexity and often even errors that delay the process , thus hindering the development flow.
+
+---
 
 # :eyes: Preview 
 <p align="center">:computer: Desktop</p>
@@ -115,6 +119,8 @@ $ react-native run-android
 [![Linkedin Badge](https://img.shields.io/badge/-JefersonPinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jeferson-pinheiro/)](https://www.linkedin.com/in/jeferson-pinheiro/)
 [![Gmail Badge](https://img.shields.io/badge/-jefersonpinheirodesouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonpinheirodesouza@gmail.com)](mailto:jefersonpinheirodesouza@gmail.com)
 
+---
+
 # Connect with me
 <p align="center">
 <a href="https://dev.to/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ojeffoinheiro" height="30" width="40" /></a>
@@ -123,6 +129,8 @@ $ react-native run-android
 <a href="https://stackoverflow.com/ojeffpinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="30" width="40" /></a>
 </p>
+
+---
 
 >This project was developed with ❤️ by **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)** <br> 
 If it helped you, give it ⭐, it will help me too 😉

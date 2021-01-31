@@ -4,25 +4,25 @@
 </h1>
   
 <p align="center">
-  <a href="#overview-book">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technology-computer">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#running-the-project-fire">Running the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-contribute-gear">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#book-overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#fire-running-the-project">Running the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mailbox-reach-me">Reach me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#connect-with-me">Connect with me</a>
 </p>
 
-# Overview :book:
+# :book: Overview
 This project aims to create a template that can be used when creating projects using React Native, since the process of installing and configuring libs at the beginning of a project can generate some complexity and often even errors that delay the process , thus hindering the development flow.
 
-# Technology :computer:
+# :computer: Technology
 This project was developed with the following technologies:
 - [React Native](https://reactnative.dev)
 - [item](https://react-icons.github.io/react-icons/)
 - [item](https://reactrouter.com/)
 ---
 
-# Running the project :fire:
+# :fire: Running the project
 ## Precondition <img src="https://4.bp.blogspot.com/-7eg7Qz3UeWM/UTioF3nxNGI/AAAAAAAAPZk/7H509R6acZU/s1600/gif+aviso.gif" width="40px">
 You should have:
 - NodeJS
@@ -47,7 +47,7 @@ $ react-native run-android
 ```
 ---
 
-# How to contribute :gear:
+# :gear: How to contribute 
 ```bash
 - Fork this repository;
 - Create a branch with your feature: `git checkout -b my-feature`;
@@ -69,5 +69,5 @@ $ react-native run-android
 <a href="https://codesandbox.io/u/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="30" width="40" /></a>
 </p>
 
->This project was developed with ❤️ by **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)** <br> 
+>This project was developed with <img src="https://magiagifs.com.br/wp-content/uploads/2019/08/gifs-coracao-pulsando-apaixonado2.gif" width="40px"> by **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)** <br> 
 If it helped you, give it ⭐, it will help me too <img src="https://blog.buscaonibus.com.br/wp-content/uploads/2020/09/emoji-piscadinha.gif" width="40px">

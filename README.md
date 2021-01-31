@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#overview-book">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technology-computer">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#how-to-use-fire">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Running the project 🚴🏻‍♂️">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute-gear">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mailbox-reach-me">Reach me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#connect-with-me">Connect with me</a>
@@ -32,17 +32,17 @@ You should have:
 ## Clone this repository :floppy_disk:
 $ git clone https://github.com/ojeffoinheiro/basic-react-native.git
 
-## Go into the repository
+## Access the project folder at the command prompt
 $ cd basic-react-native
 
 ## Install the dependencies
 yarn install
 
-## Run
-Run the application (iOS)
+## Run 
+### Run the application (iOS)
 $ react-native run-ios --simulator="iPhone XS Max"
 
-Run the application (Android)
+### Run the application (Android)
 $ react-native run-android
 ```
 ---

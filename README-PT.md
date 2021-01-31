@@ -35,7 +35,7 @@ $ git clone https://github.com/ojeffoinheiro/basic-react-native.git
 ## Acesse a pasta do projeto no prompt de comando 
 $ cd basic-react-native
 
-## Instale as dependências :wrench:
+## Instale as dependências
 yarn install
 
 ## Execute

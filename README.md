@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#overview-book">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technology-computer">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#Running the project 🚴🏻‍♂️">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#running-the-project-🚴🏻‍♂️">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute-gear">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mailbox-reach-me">Reach me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#connect-with-me">Connect with me</a>

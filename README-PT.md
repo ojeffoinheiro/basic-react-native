@@ -54,9 +54,6 @@ $ react-native run-android
 ```
 ---
 
->Este projeto foi desenvolvido com ❤️ por **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Maratona Discover](https://maratonadiscover.rocketseat.com.br/inscricao/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
-Se te ajudou, dá ⭐, vai me ajudar também 😉
-
 ---
 # :mailbox: Contato	
 [![Linkedin Badge](https://img.shields.io/badge/-JefersonPinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jeferson-pinheiro/)](https://www.linkedin.com/in/jeferson-pinheiro/)
@@ -70,3 +67,5 @@ Se te ajudou, dá ⭐, vai me ajudar também 😉
 <a href="https://stackoverflow.com/ojeffpinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="30" width="40" /></a>
 </p>
+>Este projeto foi desenvolvido com >This project was developed with <img src="https://magiagifs.com.br/wp-content/uploads/2019/08/gifs-coracao-pulsando-apaixonado2.gif" width="40px"> por **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)**<br> 
+Se te ajudou, dá ⭐, vai me ajudar também <img src="https://blog.buscaonibus.com.br/wp-content/uploads/2020/09/emoji-piscadinha.gif" width="40px">

@@ -1,4 +1,4 @@
-## [Leia esta página em português](https://github.com/ojeffoinheiro/task/blob/master/README-PT.md)
+## [Leia esta página em português](https://github.com/ojeffpinheiro01/basic-react-native/blob/main/README-PT.md)
 <h1 align="center">
   Basic structure of a react native project
 </h1>

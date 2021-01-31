@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#overview-book">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technology-computer">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#running-the-project-fire">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#running-the-project-fire">Running the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-contribute-gear">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#mailbox-reach-me">Reach me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#connect-with-me">Connect with me</a>
@@ -23,7 +23,7 @@ This project was developed with the following technologies:
 ---
 
 # Running the project :fire:
-## Precondition 📌
+## Precondition <img src="https://4.bp.blogspot.com/-7eg7Qz3UeWM/UTioF3nxNGI/AAAAAAAAPZk/7H509R6acZU/s1600/gif+aviso.gif" width="40px">
 You should have:
 - NodeJS
 - Package manager (NPM ou Yarn)
@@ -70,4 +70,4 @@ $ react-native run-android
 </p>
 
 >This project was developed with ❤️ by **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)** <br> 
-If it helped you, give it ⭐, it will help me too 😉
+If it helped you, give it ⭐, it will help me too <img src="https://blog.buscaonibus.com.br/wp-content/uploads/2020/09/emoji-piscadinha.gif" width="40px">

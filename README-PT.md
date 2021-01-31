@@ -5,8 +5,9 @@
 </h1>
   
 <p align="center">
-  <a href="#book-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#book-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#eyes-Preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#pencil-tarefas">Tarefas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#fire-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,7 +19,15 @@
 # :book: Sobre o projeto 
 Este projeto visa a criação de um template que possa ser utilizado no momento de criação de projetos utilizando React Native, visto que o processo de instalação e configuração das libs no início de um projeto podem gerar certa complexidade e muitas vezes até erros que atrasam o processo, atrapalhando assim o fluxo de desenvolvimento.
 
-# :computer: Tecnologias
+---
+
+# :eyes: Preview 
+<p align="center">:computer: Desktop</p>
+<p align="center">:iphone: Mobile</p>
+
+---
+
+# :rocket: Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
 <details>
   <summary>Frontend Web</summary>
@@ -60,13 +69,16 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 # :art: Layout
-Desktop
-Mobile
+<p align="center">:computer: Desktop</p>
+<p align="center">:iphone: Mobile</p>
+
 ---
 
 # :pencil: Tarefas
 - [x] Tarefa 01
 - [ ] Tarefa 02
+
+---
 
 # :fire: Como usar
 ## Precondition <img src="https://4.bp.blogspot.com/-7eg7Qz3UeWM/UTioF3nxNGI/AAAAAAAAPZk/7H509R6acZU/s1600/gif+aviso.gif" width="40px">
@@ -106,6 +118,8 @@ $ react-native run-android
 [![Linkedin Badge](https://img.shields.io/badge/-JefersonPinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jeferson-pinheiro/)](https://www.linkedin.com/in/jeferson-pinheiro/)
 [![Gmail Badge](https://img.shields.io/badge/-jefersonpinheirodesouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonpinheirodesouza@gmail.com)](mailto:jefersonpinheirodesouza@gmail.com)
 
+---
+
 # Siga-me 
 <p align="center">
 <a href="https://dev.to/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ojeffoinheiro" height="30" width="40" /></a>
@@ -114,6 +128,8 @@ $ react-native run-android
 <a href="https://stackoverflow.com/ojeffpinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="30" width="40" /></a>
 </p>
+
+---
 
 >Este projeto foi desenvolvido com ❤️ por **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)**<br> 
 Se te ajudou, dá ⭐, vai me ajudar também 😉

@@ -69,5 +69,5 @@ $ react-native run-android
 <a href="https://codesandbox.io/u/ojeffoinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="30" width="40" /></a>
 </p>
 
->This project was developed with <img src="https://magiagifs.com.br/wp-content/uploads/2019/08/gifs-coracao-pulsando-apaixonado2.gif" width="40px"> by **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)** <br> 
-If it helped you, give it ⭐, it will help me too <img src="https://blog.buscaonibus.com.br/wp-content/uploads/2020/09/emoji-piscadinha.gif" width="40px">
+>This project was developed with ❤️ by **[@Jéferson Pinheiro](https://github.com/ojeffpinheiro01/)** <br> 
+If it helped you, give it ⭐, it will help me too 😉
